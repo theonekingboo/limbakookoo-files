@@ -22,5 +22,5 @@ While the development team is currently small, we welcome contributors who would
 
 ## thanks
 
-Thank you for your interest in Limbakookoo! Stay tuned for updates and follow our journey as we continue to shape this totally normal farming game and defenitly not something else.
+Thank you for your interest in Limbakookoo! Stay tuned for updates and follow our journey as we continue to shape this totally normal farming game and definitly not something else.
 
